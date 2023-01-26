@@ -93,7 +93,7 @@ void ver_citas() {
     } else {
         printf("Citas agendadas:\n");
         for (i = 0; i < contador_citas; i++) {
-            printf("- Paciente: %s, Contacto: %s, Fecha: %s\n", citas[i].nombre_paciente, citas[i].informacion_contacto, citas[i].fecha_hora);
+            printf("\n-Paciente: %s, \n Contacto: %s, \n Fecha: %s\n", citas[i].nombre_paciente, citas[i].informacion_contacto, citas[i].fecha_hora);
         }
     }
 }
@@ -121,7 +121,7 @@ void exportar_citas() {
 
 int main() {
     while (1) {
-        printf("Menu de opciones:\n");
+        printf("~~~~~~~~Menu de opciones~~~~~~~\n");
         printf("1. Agendar cita\n");
         printf("2. Cancelar cita\n");
         printf("3. Ver citas\n");

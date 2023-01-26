@@ -1,3 +1,1 @@
-Paciente: Joan, Contacto: 0989597069, Fecha: 26/01/2023
-Paciente: Cristian, Contacto: cluis@aol.com, Fecha: 27/01/2023
-Paciente: Alienware, Contacto: alware@aol.com, Fecha: 28/01/2023
+Paciente: gandy, Contacto: 09237532532, Fecha: 06/08/2003
